@@ -1,0 +1,16 @@
+sceneSetups:
+- path: Assets/FossilFuelers2D.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Credits.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/FossilFuelers2D1P.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Controls.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/TitleScreen.unity
+  isLoaded: 1
+  isActive: 1
